@@ -9,6 +9,9 @@ This project utilizes a Bluepill board (STM32F103C8) to allow the connection of 
 * ELRS
 
 # preparing
+
+For users using normal ELRS receiver, select precombiled CSFR binary.
+
 ### precompiled binaries
 Precompiled binaries can be downloaded from [releases](https://github.com/cruwaller/rc_receiver_to_usb_hid/releases) page.
 
